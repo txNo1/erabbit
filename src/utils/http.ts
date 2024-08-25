@@ -1,0 +1,1 @@
+const baseURL = 'https://pcapi-xiaotuxian-front-devtest.itheima.net'
